@@ -1,4 +1,4 @@
-setwd("/Users/abigailatchison/Documents/MLAT/RMatlabTopicModeling/Entropy/Results")
+
 datCPP <- read.csv("CPP100.csv")
 datMATLAB <- read.csv("MATLAB.csv")
 datR <- read.csv("R.csv")
