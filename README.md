@@ -1,4 +1,4 @@
-# ATopicBasedAnalysisOfScientificComputingSoftware
+# A Topic Based Analysis Of Scientific Computing Software
 Complete results and scripts associated with the scientific paper written by Atchison et al. A Topic Based Analysis of Scientific Computing Software
 
 
